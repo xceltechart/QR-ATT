@@ -1,0 +1,22 @@
+// Midnight Aurora — dark electric-violet theme
+export const COLORS = {
+  primary: '#8B7CF6',
+  background: '#0B0F1C',
+  card: '#141A2E',
+  textPrimary: '#EDEFF7',
+  textSecondary: '#9AA4C0',
+  textOnPrimary: '#FFFFFF',
+  surface: '#1B2240',
+  border: '#232B48',
+  shadow: '#000000',
+  warning: '#F5B041',
+  success: '#3DDC97',
+  danger: '#FF6B6B',
+  primaryDark: '#241C4E',
+  primarySoft: '#1C183F',
+  elevated: '#10152A',
+  muted: '#0D1120',
+  onPrimarySoft: '#CFC8F8',
+  onPrimaryMuted: '#948BDB',
+  successLight: '#5EEAD4',
+} as const;
